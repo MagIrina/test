@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div {
     background: white;
     max-width: 1200px;
@@ -6,4 +7,12 @@ div {
 span {
     color: red;
     border: 1px solid blue;
+=======
+h1 {
+    color: green;
+    background-color: black;
+}
+div {
+    color: blue;
+>>>>>>> 7efd05b57b612c4184c74a8b22400e9a37b17e93
 }
